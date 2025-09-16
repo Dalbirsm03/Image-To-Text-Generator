@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-#now i ma on main
-=======
->>>>>>> Stashed changes
 import PIL
 from dotenv import load_dotenv
 import google.generativeai as genai
