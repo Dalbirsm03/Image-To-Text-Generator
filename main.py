@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-=======
-#hello this is a try of branching system
-# try2
->>>>>>> Stashed changes
+#now i ma on main
 import PIL
 from dotenv import load_dotenv
 import google.generativeai as genai
